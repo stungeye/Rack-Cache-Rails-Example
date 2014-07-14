@@ -1,0 +1,2 @@
+module RackCacheHelper
+end
